@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkIDNCreaterPages"]=self["webpackChunkIDNCreaterPages"]||[]).push([[648],{1881:function(e,r,a){a.r(r),a.d(r,{default:function(){return f}});var t=a(8473);const n={class:"tutorial"},u=(0,t._)("h1",null,"This is a tutorial page",-1),s=[u];function i(e,r,a,u,i,c){return(0,t.wg)(),(0,t.iD)("div",n,s)}var c={name:"TutorialView",data(){return{}}},l=a(5312);const o=(0,l.Z)(c,[["render",i]]);var f=o}}]);
+//# sourceMappingURL=tutorial.4a957b96.js.map

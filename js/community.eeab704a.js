@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkIDNCreaterPages"]=self["webpackChunkIDNCreaterPages"]||[]).push([[587],{714:function(e,n,a){a.r(n),a.d(n,{default:function(){return l}});var r=a(8473);const t={class:"about"},u=(0,r._)("h1",null,"This is a community page",-1),s=[u];function i(e,n,a,u,i,c){return(0,r.wg)(),(0,r.iD)("div",t,s)}var c={name:"CommunityView",data(){return{}}},o=a(5312);const f=(0,o.Z)(c,[["render",i]]);var l=f}}]);
+//# sourceMappingURL=community.eeab704a.js.map
